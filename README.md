@@ -11,8 +11,7 @@ Esta guía asume que ya tienes una instalación básica de Arch Linux. Si no es 
 Abre una terminal y clona este repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/dotfiles-hyprland.git # Reemplaza con la URL de tu repositorio
-cd dotfiles-hyprland
+git clone https://github.com/Lordcy28/hyprland-custom-archlinux/tree/main
 ```
 
 ### 2. Ejecutar el Script de Instalación
